@@ -20,4 +20,4 @@ checkmarx:
         filter: '!*.cpp'
       kics:
         filter: '*.java'
-        platforms: 'Ansible,CloudFormation,Dockerfile'
+        platforms: 'CloudFormation,Dockerfile'
