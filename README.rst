@@ -6,6 +6,8 @@ Service Discovery Demo
 |
 
 
+
+
 |java_cd| |dotnet_core_cd| |nodejs_cd|
 
 -----
